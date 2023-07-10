@@ -1,0 +1,17 @@
+body {
+	background-image: url(public/wessie.jpg);
+}
+
+body {
+	font-size: 10em;
+	color: orange;
+}
+
+h1 {
+	line-height: 1em;
+	margin: 0;
+}
+
+button {
+	font-size: 1em;
+}
